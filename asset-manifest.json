@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fetchapidata/static/css/main.af2646d7.css",
+    "main.js": "/fetchapidata/static/js/main.0dc9497e.js",
+    "index.html": "/fetchapidata/index.html",
+    "main.af2646d7.css.map": "/fetchapidata/static/css/main.af2646d7.css.map",
+    "main.0dc9497e.js.map": "/fetchapidata/static/js/main.0dc9497e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af2646d7.css",
+    "static/js/main.0dc9497e.js"
+  ]
+}
